@@ -153,3 +153,29 @@ header li:first-child {
  .middle p {
      color:white;
  }
+
+ /* FOOTER */
+
+ nav {
+     font-size: 16px;
+     text-align: center;
+ }
+
+ footer {
+     background-color: #E5E0E0;
+     height: 140px;
+     padding-top: 20px;
+ }
+
+ footer li {
+     border-right: 1px solid #373535;
+ }
+
+ footer li:last-child {
+     border-right: none;
+ }
+
+ footer img {
+     display: block;
+     margin: 0 auto;
+ }
